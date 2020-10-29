@@ -1,0 +1,24 @@
+{
+  "name": "ajax-simpsons-quotes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "axios": "^0.21.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilieM71/ajax-simpsons-quotes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmilieM71/ajax-simpsons-quotes/issues"
+  },
+  "homepage": "https://github.com/EmilieM71/ajax-simpsons-quotes#readme"
+}
